@@ -1,0 +1,13 @@
+{
+  "name": "dolp-ultimate-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.30.0",
+    "mineflayer-auto-eat": "^1.2.0",
+    "mineflayer-pathfinder": "^1.3.0"
+  }
+}
